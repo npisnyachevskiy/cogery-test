@@ -6,6 +6,6 @@ public class Test {
 	}
 	
 	public int getA() {
-		return a;
+		return a - 1;
 	}
 }
